@@ -1,7 +1,7 @@
 var responseContent = '<html>' +
   '<body>' +
   '<style>' +
-  'body {text-align: center; background-color: #333; color: #eee;}' +
+  'body {text-align: center; background-color: rebeccapurple; color: #eee;}' +
   '</style>' +
   '<h1>Paddy\'s page</h1>' +
   '<p>There seems to be a problem with your connection.</p>' +
