@@ -3,7 +3,7 @@ var responseContent = '<html>' +
   '<style>' +
   'body {text-align: center; background-color: #333; color: #eee;}' +
   '</style>' +
-  '<h1>Paddys page</h1>' +
+  '<h1>Paddy\'s page</h1>' +
   '<p>There seems to be a problem with your connection.</p>' +
   '<p>Come visit us at Fred Street for free WiFi.</p>' +
   '</body>' +
